@@ -1,4 +1,6 @@
 // write code for Welcome component here
+import React from "react";
+
 const Welcome = (prop) => {
   
   return (
